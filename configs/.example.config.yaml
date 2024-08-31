@@ -1,0 +1,7 @@
+ENVIRONMENT: "development"
+SERVICE_NAME: "wallet-backend"
+SERVICE_VERSION: "1.0.0"
+
+POSTGRESQL_DATABASE:
+  HOST: "localhost"
+  PORT: "5432"
